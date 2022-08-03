@@ -115,7 +115,7 @@ Existem dois <strong>tipos de usuários</strong>: <strong>user</strong> e <stron
 
   - `npm install`
   
-  5. Acesse no browser localhost:3000.
+  5. Acesse localhost:3000 no seu browser.
   
   - `http://localhost:3000`
 </details>
