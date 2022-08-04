@@ -47,9 +47,10 @@ Existem dois <strong>tipos de usuários</strong>: <strong>user</strong> e <stron
 <details>
 <summary><strong>Users data</strong></summary><br />
 
-- User: `user@user.com` `secret_user`
-
-- Admin: `admin@admin.com` `secret_admin`
+| Type  |  E-mail | Password |
+| :---: | :-----: | :------: |
+|  user | `user@user.com` | `secret_user` |
+| admin | `admin@admin.com` | `secret_admin` | 
 </details>
 
 <details>
@@ -114,7 +115,7 @@ Existem dois <strong>tipos de usuários</strong>: <strong>user</strong> e <stron
 
   - `npm install`
   
-  5. Acesse no browser localhost:3000.
+  5. Acesse localhost:3000 no seu browser.
   
   - `http://localhost:3000`
 </details>
@@ -122,9 +123,10 @@ Existem dois <strong>tipos de usuários</strong>: <strong>user</strong> e <stron
 <details>
 <summary><strong>Dados dos usuários</strong></summary><br />
 
-- User: `user@user.com` `secret_user`
-
-- Admin: `admin@admin.com` `secret_admin`
+| Tipo  |  E-mail | Senha |
+| :---: | :-----: | :---: |
+|  user | `user@user.com` | `secret_user` |
+| admin | `admin@admin.com` | `secret_admin` | 
 </details>
 
 <details>
