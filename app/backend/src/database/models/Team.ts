@@ -23,7 +23,4 @@ Team.init({
   timestamps: false,
 });
 
-// Team.hasMany(Match, { foreignKey: 'id', as: 'homeTeam' });
-// Team.hasMany(Match, { foreignKey: 'id', as: 'awayTeam' });
-
 export default Team;
